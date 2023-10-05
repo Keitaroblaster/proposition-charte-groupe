@@ -7,3 +7,4 @@ art.5 tu seras bienveillant
 art.6 tu changeras de place régulièrement
 art.7 tu dormiras point pendant la formation
 art.8 tu prendras soin aux yeux de tes prochains et allumera la lumière
+art.9 tu ne jugeras personne
