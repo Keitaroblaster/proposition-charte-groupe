@@ -5,3 +5,4 @@ art.3 tu t'entraideras
 art.4 les formateurs ne devront pas oublier les pauses
 art.5 tu seras bienveillant
 art.6 tu changeras de place régulièrement
+art.7 tu dormiras point pendant la formation
